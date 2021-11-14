@@ -53,6 +53,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'hirb'
+gem 'activerecord'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'carrierwave'
